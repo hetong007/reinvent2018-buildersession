@@ -1,0 +1,4 @@
+*.idx
+*.rec
+*DS_Store
+ipynb_checkpoints/
